@@ -1,4 +1,4 @@
-10395017DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +11,7 @@
        
 <header>
     <section>   
-    <h1>DHANUSH M</h1>
+    <h1>DHANUSH R</h1>
         <h3>Student</h3>
         <h4>Government Arts and Science College,valparai</h4>
     </section>
